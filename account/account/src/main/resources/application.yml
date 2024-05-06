@@ -1,0 +1,12 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: account-service
+  config:
+    import: optional:configserver:http://localhost:9003
+
+eureka:
+  instance:
+    hostname: localhost
