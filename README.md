@@ -32,7 +32,6 @@ This project is an MVP(minimum viable product) for a banking application built u
 - Java Spring Boot: Backend framework for building microservices.
 - Spring Cloud: For implementing features like service discovery and centralized configuration management.
 - Netflix Eureka: For service registration and discovery.
-- Zuul API Gateway: For routing requests to microservices.
 - Maven: Dependency management and build tool.
 
 ## Prerequisites
